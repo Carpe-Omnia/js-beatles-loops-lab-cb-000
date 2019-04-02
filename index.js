@@ -4,4 +4,6 @@ function theBeatlesPlay(guys, tools){
     var sent = `${guys[i]} plays ${tools[i]}` ;
     empty.push(sent) ;
   }
+  return empty ;
 }
+
