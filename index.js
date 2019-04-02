@@ -25,5 +25,5 @@ function iLoveTheBeatles(num){
     thing.push("I love the Beatles!") ;
     temp++ ;
   } while (temp < 15)
-  return temp ;
+  return thing ;
 }
