@@ -14,5 +14,5 @@ function johnLennonFacts(ray){
     newray[d] = `${ray[d]}!!!`
     d++ ;
   }
-  return newray ; 
+  return newray ;
 }
