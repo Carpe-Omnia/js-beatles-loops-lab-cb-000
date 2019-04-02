@@ -19,11 +19,11 @@ function johnLennonFacts(ray){
 }
 
 function iLoveTheBeatles(num){
-  var thing = [] ;
-  var temp = num ;
-  do while(temp < 15){
-    thing.push("I love the Beatles!") ;
+  var thing = [] ; 
+  var temp = num ; 
+  do {
+    thing.push("I love the Beatles!") ; 
     temp++ ;
-  }
-  return temp ;
+  } while (temp < 15)
+  return temp ; 
 }
