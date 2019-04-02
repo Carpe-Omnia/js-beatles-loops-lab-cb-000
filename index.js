@@ -12,6 +12,7 @@ function johnLennonFacts(ray){
   var newray = [] ;
   while(d < ray.length){
     newray[d] = `${ray[d]}!!!`
+    ray[d] = `${ray[d]}!!!`
     d++ ;
   }
   return newray ;
