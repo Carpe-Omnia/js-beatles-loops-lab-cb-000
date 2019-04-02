@@ -6,3 +6,13 @@ function theBeatlesPlay(guys, tools){
   }
   return empty ;
 }
+
+function johnLennonFacts(ray){
+  var d = 0 ;
+  var newray = [] ;
+  while(d < ray.length){
+    newray[d] = `${ray[d]}!!!`
+    d++ ;
+  }
+  return newray ; 
+}
