@@ -1,4 +1,3 @@
-
 function theBeatlesPlay(guys, tools){
   var empty = [] ;
   for(var i = 0 ; i < guys.length ; i++){
