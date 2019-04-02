@@ -6,4 +6,3 @@ function theBeatlesPlay(guys, tools){
   }
   return empty ;
 }
-
